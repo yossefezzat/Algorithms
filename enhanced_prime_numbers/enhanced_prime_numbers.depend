@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1613228076 source:d:\problemsolving\algorithms\enhanced_prime_numbers\main.cpp
+	<iostream>
+	<cmath>
+
